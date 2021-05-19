@@ -1,0 +1,49 @@
+{
+  "ID": "1",
+  "Name": "Mark Hanson",
+  "Telephone": [ 
+    { "Home": "1-999-9999999" }, 
+    { "Business": "1-888-8888888" }, 
+    { "Cell": "1-777-7777777" }
+  ],
+  "Address": [ 
+    { "Home": [
+      { "StreetAddress": "121 Main Street" }, 
+      { "City": "Some City" },
+      { "State": "NY" }, 
+      { "Zip": "10110" }
+    ] },
+    { "Business": [
+      { "StreetAddress": "87 Big Building" },
+      { "City": "Some City" },
+      { "State": "NY" },
+      { "Zip": "10111" }
+    ] }
+  ] 
+}
+
+
+{
+  "ID": "2",
+  "Title": "Mr",
+  "Name": "Jeff Hay",
+  "Telephone": [ 
+    { "Home": "0044-1999-333333" }, 
+    { "Mobile": "0044-17545-444444" }
+  ],
+  "Address": [
+    { "UK": [
+      { "StreetAddress": "86 High Street" },
+      { "Town": "Some Town" }, 
+      { "County": "A County" }, 
+      { "Postcode": "GL8888" }, 
+      { "Region": "UK" }
+    ] },
+    { "US": [
+      { "StreetAddress": "777 7th Street" }, 
+      { "City": "Another City" },
+      { "State": "CA" },
+      { "Zip": "90111" }
+    ] }
+  ]
+}
